@@ -16,7 +16,8 @@
                 "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
             }
         ],
-        "created_at": "2026-05-28T21:23:11+00:00"
+        "created_at": "2026-05-28T21:23:11+00:00",
+        "updated_at": "2026-05-28T22:47:05+00:00"
     },
     {
         "id": "entry_6a18b24c234694.43935245",
@@ -54,7 +55,8 @@
                 "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
             }
         ],
-        "created_at": "2026-05-28T21:25:18+00:00"
+        "created_at": "2026-05-28T21:25:18+00:00",
+        "updated_at": "2026-05-28T21:42:00+00:00"
     },
     {
         "id": "entry_6a18b3362b6c32.41614588",
@@ -93,5 +95,59 @@
             }
         ],
         "created_at": "2026-05-28T21:27:40+00:00"
+    },
+    {
+        "id": "entry_6a18b518b13b29.79706527",
+        "name": "Quit Place",
+        "type": "mazmorra",
+        "description": "Meow, esto es interesante eh",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:35:20+00:00"
+    },
+    {
+        "id": "entry_6a18b553a12ce0.27015358",
+        "name": "Just a Place",
+        "type": "ciudad",
+        "description": "Antigua ciudad comercial caída en desgracia tras las guerras del litoral.",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "assets/img/uploads/just-a-place-1780003518.jpg",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:36:19+00:00"
+    },
+    {
+        "id": "entry_6a18b88fdbbc44.93686618",
+        "name": "Ciudad Trinidad",
+        "type": "ciudad",
+        "description": "Está al sur, muy al sur. Probando.",
+        "notes": "",
+        "image_path": "assets/img/uploads/ciudad-trinidad-1780005025.jpg",
+        "attributes": [
+            {
+                "name": "Estado",
+                "value": "Destruido"
+            }
+        ],
+        "created_at": "2026-05-28T21:50:07+00:00",
+        "updated_at": "2026-05-28T22:44:56+00:00"
     }
 ]
