@@ -1,0 +1,3 @@
+-Que ocurriria si un usuario ingresa dos lugares en la misma posicion? Al seleccionar ese lugar deberian iluminarse bajo el mapa ambos lugares.
+
+-Deberia haber un limite al tamaño de la imagen que se pueda subir
