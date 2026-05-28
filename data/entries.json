@@ -1,0 +1,97 @@
+[
+    {
+        "id": "entry_6a18b23f48af38.81750322",
+        "name": "Ciudad Pantano",
+        "type": "ciudad",
+        "description": "Antigua ciudad comercial caída en desgracia tras las guerras del litoral.",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:23:11+00:00"
+    },
+    {
+        "id": "entry_6a18b24c234694.43935245",
+        "name": "Ciudad Pantano",
+        "type": "ciudad",
+        "description": "Antigua ciudad comercial caída en desgracia tras las guerras del litoral.",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "assets/img/uploads/ciudad-pantano-1780003404.png",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:23:24+00:00"
+    },
+    {
+        "id": "entry_6a18b2be9d8ea0.74088245",
+        "name": "Just a Place",
+        "type": "ciudad",
+        "description": "Antigua ciudad comercial caída en desgracia tras las guerras del litoral.",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "assets/img/uploads/just-a-place-1780003518.jpg",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:25:18+00:00"
+    },
+    {
+        "id": "entry_6a18b3362b6c32.41614588",
+        "name": "Quit Place",
+        "type": "ciudad",
+        "description": "Meow, esto es interesante eh",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:27:18+00:00"
+    },
+    {
+        "id": "entry_6a18b34c3160a0.77045782",
+        "name": "Quit Place",
+        "type": "mazmorra",
+        "description": "Meow, esto es interesante eh",
+        "notes": "Ciudad usada como paso por contrabandistas. Revisar si debe conectarse con la mazmorra del litoral.",
+        "image_path": "",
+        "attributes": [
+            {
+                "name": "Población",
+                "value": "Escasa, dispersa y desconfiada. Interesante"
+            },
+            {
+                "name": "Puntos de interés.",
+                "value": "Muelles rotos, mercado cubierto y criptas bajo el agua."
+            }
+        ],
+        "created_at": "2026-05-28T21:27:40+00:00"
+    }
+]
